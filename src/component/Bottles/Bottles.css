@@ -1,0 +1,13 @@
+.bottles{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    gap: 10px;
+    
+}
+/* .new{
+    border: 2px solid saddlebrown;
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    gap: 10px;
+    
+} */

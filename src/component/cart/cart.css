@@ -1,0 +1,19 @@
+.cart img{
+    width: 100px;
+    margin-right: 10px;
+    border: 2px solid sandybrown;
+    
+}
+.cart{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.hii{
+/* 
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    gap: 10px;
+     */
+     /* border: 3px solid black;
+     margin: 5px;
+} */

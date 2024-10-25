@@ -1,0 +1,9 @@
+.bottle{
+    border: 2px solid rgb(31, 99, 54);
+    border-radius: 10px;
+    background-color: rgb(202, 162, 162);
+}
+.bottle img{
+    width: 200px;
+
+}
